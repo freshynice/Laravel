@@ -7,6 +7,6 @@
  
  ## After install project
  
- Run command : php artsan serve
- And then go to open http://127.0.0.1:8000/
- CTRL+C to exit.
+ - Run command : php artsan serve 
+ - And then go to open http://127.0.0.1:8000/ 
+ - CTRL+C to exit.
